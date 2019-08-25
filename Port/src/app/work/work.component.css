@@ -1,0 +1,76 @@
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  margin-top: 40px;
+  margin-left: 1000px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid #DCDCDC;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid #DCDCDC;
+}
+.workImage{
+  width: 700px;
+  margin-top: 50px;
+  margin-left: 300px;
+  border-radius: 50%;
+}
+.workTitle{
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 500px;
+
+}
+.salonImage{
+  width: 350px;
+  margin-left: 650px;
+  border-radius: 12px;
+}
+.HeroImage{
+  width: 350px;
+  margin-left: 650px;
+  border-radius: 12px;
+  margin-top: 230px;
+}
+.hairSalonTitle{
+  margin-top: -300px;
+  margin-left: 300px;
+}
+.hairSalonNote{
+  margin-top: -150px;
+  font-size: 20px;
+
+}
+.hairSalonNoteDiv{
+  margin-top: -200px;
+  margin-left: 70px;
+}
+.hairSalonNote{
+  margin-left: 150px;
+  margin-top: 230px;
+}
+.heroSquadNoteDiv{
+  margin-left: 200px;
+}
+.heroSquadTitle{
+  margin-top: -330px;
+  margin-left: 310px;
+
+}
+.heroSquadNote{
+  font-size: 20px;
+}
