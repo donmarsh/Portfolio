@@ -1,0 +1,74 @@
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  margin-top: 40px;
+  margin-left: 1000px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid #DCDCDC;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid #DCDCDC;
+}
+.contactBakground{
+  height: 725px;
+  background-color: #DCDCDC	;
+}
+.contactlogo{
+  width: 100px;
+  margin-top: -250px;
+  margin-left: 1000px;;
+}
+.contactImageOne{
+  margin-top: -300px;
+}
+h2{
+  font-size: 70px;
+  margin-left: 250px;
+  margin-top: -250px;
+}
+.contacthorizontal{
+  width: 500px;
+  margin-left: 150px;
+  margin-top: -30px;
+  font-family: serif;
+  color: black;
+  border-top: 1px  solid black;
+}
+.contactParagraph{
+  margin-left: 300px;
+  font-size: 25px;
+}
+.phone{
+  margin-top: 70px;
+  margin-left: 300px;
+  font-size: 25px;
+}
+.email{
+  margin-top: 30px;
+  margin-left: 300px;
+  font-size: 25px;
+}
+.githubButton{
+  height: 40px;
+  border-radius: 20px;
+  width: 180px;
+  color: white;
+  font-size: 17px;
+  margin-top: 50px;
+  margin-left: 300px;
+  background-color: black;
+}

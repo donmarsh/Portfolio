@@ -31,7 +31,7 @@
 }
 .workTitle{
   font-size: 30px;
-  margin-top: 30px;
+  margin-top: 60px;
   margin-left: 500px;
 
 }
@@ -73,4 +73,8 @@
 }
 .heroSquadNote{
   font-size: 20px;
+}
+.greyWork{
+  width: 900px;
+  margin-left: 200px;
 }
