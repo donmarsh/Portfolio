@@ -77,13 +77,13 @@ h1{
 
 }
 .textThree{
-  font-size: 10px;
+  font-size: 15px;
 }
 .textFour{
-  font-size: 10px;
+  font-size: 15px;
 }
 .textFive{
-  font-size: 10px;
+  font-size: 15px;
 }
 @keyframes textThree{
   0%{
@@ -106,7 +106,7 @@ h1{
 }
 .greyColour{
   background: black;
-  margin-top: 650px;
+  margin-top: 750px;
 
   height: 600px;
 }

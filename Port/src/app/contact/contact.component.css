@@ -25,7 +25,7 @@
 }
 .contactBakground{
   height: 725px;
-  background-color: #DCDCDC	;
+  background: -webkit-linear-gradient(360deg, #1C1C1C 10%, #494949 360%); background: -moz-linear-gradient(360deg, #1C1C1C 10%, #494949 360%); background: linear-gradient(360deg, #1C1C1C 10%, #494949 360%);
 }
 .contactlogo{
   width: 100px;
@@ -36,6 +36,7 @@
   margin-top: -300px;
 }
 h2{
+  color: white;
   font-size: 70px;
   margin-left: 250px;
   margin-top: -250px;
@@ -45,30 +46,48 @@ h2{
   margin-left: 150px;
   margin-top: -30px;
   font-family: serif;
-  color: black;
-  border-top: 1px  solid black;
+  border-top: 1px  solid white;
 }
 .contactParagraph{
+  color: white;
   margin-left: 300px;
   font-size: 25px;
 }
 .phone{
+  color: white;
   margin-top: 70px;
   margin-left: 300px;
   font-size: 25px;
 }
+
+.phonIconImage{
+  margin-top: 10px;
+  width:30px;
+  margin-left: -250px;
+}
 .email{
+  color: white;
   margin-top: 30px;
   margin-left: 300px;
   font-size: 25px;
 }
 .githubButton{
   height: 40px;
-  border-radius: 20px;
+  border-radius: 5px;
   width: 180px;
-  color: white;
-  font-size: 17px;
+  color: black;
+  font-size: 19px;
   margin-top: 50px;
   margin-left: 300px;
-  background-color: black;
+  background-color: white;
+}
+.linkedInButton{
+  height: 40px;
+  border-radius: 5px;
+  width: 180px;
+  color: black;
+  font-size: 19px;
+  margin-top: 50px;
+  margin-left: 80px;
+  background-color: white;
 }
